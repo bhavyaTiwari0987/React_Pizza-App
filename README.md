@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/bhavyaTiwari0987/React_Pizza-App/assets/109498434/1f05331d-5842-4fa5-978d-996f3c7c0600)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
