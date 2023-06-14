@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Hosting URL: https://react-pizza-app-e3d48.web.app
+
 ![image](https://github.com/bhavyaTiwari0987/React_Pizza-App/assets/109498434/1f05331d-5842-4fa5-978d-996f3c7c0600)
 
 
